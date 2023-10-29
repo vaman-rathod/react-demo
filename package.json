@@ -7,8 +7,8 @@
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
     "@fortawesome/react-fontawesome": "^0.1.4",
     "node-sass": "^4.12.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^10.19.0",
+    "react-dom": "^10.19.0",
     "react-redux": "^7.0.3",
     "react-scripts": "3.0.1",
     "redux": "^4.0.1"
